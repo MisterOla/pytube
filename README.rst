@@ -3,7 +3,7 @@ pytube
 
 |travis|
 
-A repository of Python relate media. http://PyTube.org
+A repository of Python related talks. http://PyTube.org
 
 .. |travis| image:: https://travis-ci.org/pytube/pytube.svg?branch=master
     :target: https://travis-ci.org/pytube/pytube
@@ -22,4 +22,6 @@ TODO
 - Link checker (script to check that all links in site are 200 OK)
 - TravisCI integration (build site on push to master or merger of PR)
 - A sweet 404 page
+
+- Embed videos instead of redirection to source page i.e. Youtube.
 
